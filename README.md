@@ -1,4 +1,4 @@
-##Hello 
+## Hi there 👋
 <div style="display: flex; align-items: center;">
   <a href="https://github-readme-stats.vercel.app/api?username=mcc03&show_icons=true&theme=transparent">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mcc03&show_icons=true&theme=transparent" />
