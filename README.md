@@ -1,6 +1,6 @@
 ## About Me 👋
 
-💻 Tech Stack & Skills:
+## Tech Stack & Skills
 Web Development: JavaScript, HTML, CSS, Node.js
 Frameworks & Libraries: React, Bootstrap, React-Bootstrap, Tailwind
 Databases: SQL, relational database design
@@ -10,7 +10,7 @@ Software Development: Web, Mobile, SaaS
 Microsoft Technologies & Design Patterns
 Collaboration: Strong individual and team contributor
 
-🚀 What Drives Me
+## 🚀 What Drives Me
 I have an innovative mindset and a deep passion for technology. Whether it's designing sleek UIs, optimizing backend systems, or developing engaging games, I strive to create high-quality and efficient solutions.
 
 <div style="display: flex; align-items: center;">
