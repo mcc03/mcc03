@@ -1,4 +1,18 @@
-## Hi there 👋
+## About Me 👋
+
+💻 Tech Stack & Skills:
+Web Development: JavaScript, HTML, CSS, Node.js
+Frameworks & Libraries: React, Bootstrap, React-Bootstrap, Tailwind
+Databases: SQL, relational database design
+Game Development: Unity, C#
+UX Testing: Surveys, in-person user testing
+Software Development: Web, Mobile, SaaS
+Microsoft Technologies & Design Patterns
+Collaboration: Strong individual and team contributor
+
+🚀 What Drives Me
+I have an innovative mindset and a deep passion for technology. Whether it's designing sleek UIs, optimizing backend systems, or developing engaging games, I strive to create high-quality and efficient solutions.
+
 <div style="display: flex; align-items: center;">
   <a href="https://github-readme-stats.vercel.app/api?username=mcc03&show_icons=true&theme=transparent">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mcc03&show_icons=true&theme=transparent" />
