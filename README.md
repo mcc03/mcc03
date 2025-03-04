@@ -1,6 +1,6 @@
 ## About Me 👋
 
-## Tech Stack & Skills
+## 💻 Tech Stack & Skills
 Web Development: JavaScript, HTML, CSS, Node.js
 Frameworks & Libraries: React, Bootstrap, React-Bootstrap, Tailwind
 Databases: SQL, relational database design
