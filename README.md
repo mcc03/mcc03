@@ -4,19 +4,19 @@ Hi! I'm Marlon, a passionate coder from Ireland who loves building innovative so
 ## 💻 Tech Stack & Skills
 ## Web Development: JavaScript, HTML, CSS, Node.js
 
-## Frameworks & Libraries: React, Bootstrap, React-Bootstrap, Tailwind
+**Frameworks & Libraries:** React, Bootstrap, React-Bootstrap, Tailwind
 
-## Databases: SQL, relational database design
+**Databases:** SQL, relational database design
 
-## Game Development: Unity, C#
+**Game Development:** Unity, C#
 
-## UX Testing: Surveys, in-person user testing
+**UX Testing:** Surveys, in-person user testing
 
-## Software Development: Web, Mobile, SaaS
+**Software Development:** Web, Mobile, SaaS
 
-## Microsoft Technologies & Design Patterns
+Microsoft Technologies & Design Patterns
 
-## Collaboration: Strong individual and team contributor
+**Collaboration:** Strong individual and team contributor
 
 ## 🚀 What Drives Me
 I have an innovative mindset and a deep passion for technology. Whether it's designing sleek UIs, optimizing backend systems, or developing engaging games, I strive to create high-quality and efficient solutions.
