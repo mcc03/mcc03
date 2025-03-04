@@ -2,7 +2,7 @@
 Hi! I'm Marlon, a passionate coder from Ireland who loves building innovative solutions. My main language is JavaScript, but I also have experience with C#, SQL, and various web and game development technologies.
 
 ## 💻 Tech Stack & Skills
-## Web Development: JavaScript, HTML, CSS, Node.js
+**Web Development:** JavaScript, HTML, CSS, Node.js
 
 **Frameworks & Libraries:** React, Bootstrap, React-Bootstrap, Tailwind
 
